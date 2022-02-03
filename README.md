@@ -10,6 +10,10 @@ MAWILabSep2020.zip/
    ├── 0901_0930_K_10.csv
    └── 0901_0930_K_20.csv
 ```
+Due to limitation of file zie, we are sharining the google drive link for dataset:
+https://drive.google.com/drive/folders/1iLoW97uCg3tirV0MdnYxqo9CveHMXmYW?usp=sharing
+
+Later, we are going to upload into zenodo.org
 
 ### License
 © This code is made available under the GPLv3 License and is available for non-commercial academic purposes.
