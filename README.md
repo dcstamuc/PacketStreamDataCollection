@@ -12,6 +12,6 @@ MAWILabSep2020.zip/
 ```
 
 ### License
-© Disruptive Cyber-Security Lab at TAMU-Commerce - This code is made available under the GPLv3 License and is available for non-commercial academic purposes.
+© This code is made available under the GPLv3 License and is available for non-commercial academic purposes.
 
 
