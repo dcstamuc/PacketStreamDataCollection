@@ -1,8 +1,7 @@
 # Packet Stream Data Collection
-***
+
 
 ### Datasets
-***
 The data consists of packet size information, packet interarrival time, c2s and taxonomy label.
 
 ```
@@ -18,7 +17,7 @@ Due to limitation of file size, we are sharining the [Google drive link](https:/
 Later, we are going to upload into [zenodo.org](https://zenodo.org/)
 
 ### License
-***
+
 © This code is made available under the GPLv3 License and is available for non-commercial academic purposes.
 
 
