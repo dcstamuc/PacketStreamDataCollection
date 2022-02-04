@@ -4,7 +4,7 @@
 The data consists of packet size information, packet interarrival time, c2s and taxonomy label.
 
 ```
-MAWILabSep2020.zip/
+MAWILabSep2020/
    ├── 0901_0930_K_3.csv
    ├── 0901_0930_K_5.csv
    ├── 0901_0930_K_10.csv
