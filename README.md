@@ -7,10 +7,9 @@ The packet stream analysis is essential for the early identification of attack c
 
 ## Datasets
 
-In this work, we construct packet stream data to develop the function for the early identification of network attacks by combining public traffic traces with corresponding intrusion detection logs. Specifically, we utilize the real network traces and intrusion logs collected from backbone links in Japan [(MAWILab)](http://www.fukuda-lab.org/mawilab/). The traffic trace contains TCP/IP packet header information in a pcap file, while the associated intrusion log is provided in a comma-separated values (CSV) file with the attack information inferred by multiple detectors. Each pcap file is a recording of 15-minute traffic collected on a specific day. We extract flow information from the 25-day network traffic collected in September 2020, except five days due to unavailability (3rd, 14th, 27th, 28th, and 29th).  
+In this work, we construct packet stream data to develop the function for the early identification of network attacks by combining public traffic traces with corresponding intrusion detection logs. Specifically, we utilize the real network traces and intrusion logs collected from backbone links in Japan [(MAWILab)](http://www.fukuda-lab.org/mawilab/). The traffic trace contains TCP/IP packet header information in a pcap file, while the associated intrusion log is provided in a comma-separated values (CSV) file with the attack information inferred by multiple detectors. Each pcap file is a recording of 15-minute traffic collected on a specific day. We extract flow information from *the 25-day network traffic collected in September 2020*, except five days due to unavailability (3rd, 14th, 27th, 28th, and 29th).  
 
-The dataset consists of packet size information, packet interarrival time, c2s and taxonomy label.  
-K means number of packets. (e.g., 0901_0930_K_3.csv has 3 packets on the same flow is measured)
+The dataset consists of *packet size information, packet interarrival time, c2s and taxonomy label*. K means number of packets. (e.g., 0901_0930_K_3.csv has 3 packets on the same flow is measured)
 
 ```
 MAWILabSep2020/
