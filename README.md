@@ -1,6 +1,6 @@
 # Deep Sequence Models for Packet Stream Analysis and Early Decisions 
 
-### Packet Stream Data Collection
+## Packet Stream Data Collection
 The data consists of packet size information, packet interarrival time, c2s and taxonomy label.
 
 ```
@@ -14,7 +14,7 @@ Due to limitation of file size, we are sharining the [Google drive link](https:/
 ) for dataset.
 
 
-### Acknowledgements, Usage & License
+## Acknowledgements, Usage & License
 
 This work was supported in part by the Texas A&M University Presidential GAR Initiative program. 
 
