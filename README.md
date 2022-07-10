@@ -26,7 +26,7 @@ Due to limitation of file size, we are sharining the [Google drive link](https:/
 
 This work was supported in part by the Texas A&M University Presidential GAR Initiative program.  
 
-If you find our work useful in your research or if you use parts of this code please consider citing our paper:  
+If you find our work useful in your research or if you use parts of this datasets or code please consider citing our paper:  
 ```
 ```
 
