@@ -14,7 +14,6 @@ MAWILabSep2020/
 Due to limitation of file size, we are sharining the [Google drive link](https://drive.google.com/drive/folders/1iLoW97uCg3tirV0MdnYxqo9CveHMXmYW?usp=sharing
 ) for dataset.
 
-Later, we are going to upload into [zenodo.org](https://zenodo.org/)
 
 ### License
 
