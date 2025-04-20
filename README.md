@@ -1,7 +1,7 @@
 # Packet Stream Data Collection
 
-### Deep Sequence Models for Packet Stream Analysis and Early Decisions, *LCN 2022.*
-*Minji Kim, Dongeun Lee, Kookjin Lee, Doowon Kim, Sangman Lee, [Jinoh Kim](http://faculty.tamuc.edu/jkim/index.html)*  
+### WIDE Network Dataset and Deep Sequence Models for Early Attack Identification.*
+*Minji Kim, Dongeun Lee, Kookjin Lee, Doowon Kim, Sangman Lee, [Jinoh Kim](https://jinoh-cs.github.io/)*  
 
 The packet stream analysis is essential for the early identification of attack connections while in progress, enabling timely responses to protect system resources. However, there are several challenges for implementing effective analysis, including out-of-order packet sequences introduced due to network dynam-ics andclass imbalancewith a small fraction of attack connections available to characterize. To overcome these challenges, we present two deep sequence models: (i) a bidirectional recurrent structure designed for resilience to out-of-order packets, and (ii) a pre-training-enabled sequence-to-sequence structure designed for better dealing with unbalanced class distributions using self-supervised learning. We evaluate the presented models using a real network dataset created from month-long real traffic traces collected from backbone links with the associated intrusion log. The experimental results support the feasibility of the presented models with up to 94.8% in F1 score with the first five packets (k=5), outperforming baseline deep learning models.
 
