@@ -1,0 +1,11 @@
+n_classes:
+  4
+label:
+  - Unlabeled
+  - HTTP
+  - Alpha
+  - Multi
+num_test:
+  100
+num_valid:
+  200
